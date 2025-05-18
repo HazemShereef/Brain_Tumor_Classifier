@@ -35,15 +35,16 @@ transform = transforms.Compose([
 ```
 ---
 ## ⚙️ Training Configuration
-Hyperparameter	Value
-Batch Size	32
-Epochs (CNN/EffNet)	100 / 20
-Initial Learning Rate	1e-5 (dynamic adj.)
-Loss Function	CrossEntropyLoss
-Optimizer	Adam
+- Hyperparameter	Value 
+- Batch Size	32
+- Epochs (CNN/EffNet)	100 / 20
+- Initial Learning Rate	1e-5 (dynamic adj.)
+- Loss Function	CrossEntropyLoss
+- Optimizer	Adam
 ## 📊 Results
 Performance Comparison:
+---
 
-Model	Accuracy	Training Time	Params
-Custom CNN	96.2%	80 mins	1.2M
-EfficientNet	98.5%	70 mins	5.3M
+- Model	Accuracy	Training Time	Params
+- Custom CNN	96.2%	80 mins	1.2M
+- EfficientNet	98.5%	70 mins	5.3M
