@@ -1,6 +1,7 @@
 # 🧠 Brain Tumor Classification from MRI Images
 
-This project is a deep learning model for classifying brain MRI images into one of four categories using PyTorch and transfer learning with ResNet18.
+This project is a deep learning model for classifying brain MRI images into one of four categories using PyTorch and transfer learning with ResNet18 versus simple CNN model.
+This project was part of Medical Pattern recognition course at Faculty of Engineering Helwan University
 
 ## 📊 Dataset
 
